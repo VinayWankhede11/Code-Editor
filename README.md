@@ -1,5 +1,5 @@
 # Code-Editor
-### Deployed Version: `https://frontendcodeeditor.netlify.app/`  <br/>
+### `Deployed Version`: https://frontendcodeeditor.netlify.app/  <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
