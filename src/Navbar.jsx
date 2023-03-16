@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav>
       <ul>
-        <li className='image'><img src="src/assets/icons8-code-64.png" alt="demo" height="50"/></li>
+        <li className='image'><img src="https://img.icons8.com/color/256/source-code.png" alt="demo" height="50"/></li>
         <li><a href="#">File</a></li>
         <li><a href="#">Edit</a></li>
         <li><a href="#">View</a></li>
@@ -31,7 +31,7 @@ const Navbar = () => {
         }
 
         a {
-          color: #B23AF6;
+          color: #2196F3;
           text-decoration: none;
           padding: 0.5rem;
         }

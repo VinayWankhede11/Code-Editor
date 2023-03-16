@@ -28,13 +28,13 @@ const App = () => {
       {/* FOR IDE */}
       <div className="left">
         {/* for HTML */}
-        <label><img src='./src/assets/icons8-html-5.svg' alt='HTML'/>HTML</label>
+        <label><img src='https://img.icons8.com/fluency/256/html-5.png' alt='HTML'/>HTML</label>
         <textarea name="html" onChange={(e)=>setHtmlCode(e.target.value)}></textarea>
         {/* for CSS */}
-        <label><img src="./src/assets/icons8-css3.svg" alt='CSS'/>CSS</label>
+        <label><img src="https://img.icons8.com/fluency/256/css3.png" alt='CSS'/>CSS</label>
         <textarea name="css" onChange={(e)=>setCssCode(e.target.value)}></textarea>
         {/* for JS */}
-        <label><img src='./src/assets/icons8-javascript.svg' alt='JS'/>JS</label>
+        <label><span><img src='https://img.icons8.com/fluency/256/javascript.png' alt='JS'/></span>JS</label>
         <textarea name="js" onChange={(e)=>setJsCode(e.target.value)}></textarea>
       </div>
       {/* FOR OUTPUT */}
